@@ -16,6 +16,21 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+#### Usecase Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/17b623ff-d912-4b40-bdd2-bf54ca204e73)
+#### Package Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/1365c8ff-7feb-4313-8b4a-1291614f8d84)
+
+#### Class Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/1ec88874-b606-4aef-b4dd-77019571cb16)
+#### Activity Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/946e7ffd-5618-49e3-a5ae-a708228bb019)
+#### Communication Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/246c302f-fb52-4233-aea9-f195fa1fd213)
+#### Sequence Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/29eb3f98-6f94-4159-8a45-22e7f48d2d48)
+#### Class Diagram:
+![image](https://github.com/Vanitha-SM/LAB-6-Online-examination-system/assets/119557985/26fc2d85-edf0-43c5-9d0c-a9c74d4772a4)
 
 
 
